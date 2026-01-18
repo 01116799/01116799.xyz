@@ -1,5 +1,6 @@
 ---
 title: "基礎"
+description: "投資の前に"
 date: "2026-01-18"
 ---
 
