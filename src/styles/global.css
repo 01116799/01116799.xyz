@@ -5,8 +5,8 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --font-sans: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Meiryo', Geist Sans, ui-sans-serif, system-ui, sans-serif;
-  --font-mono: 'Fira Code', 'Noto Sans Mono CJK JP', Geist Mono, ui-monospace, monospace;
+  --font-sans: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+  --font-mono: "Hiragino Sans Mono", "Monaco", monospace;
 }
 
 /*
