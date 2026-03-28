@@ -10,7 +10,7 @@ date: "2026-03-23"
 
 ![buying](../../assets/buying.jpg)
 
-モデル名はSRPD65K1　(末尾Kはマレーシア組み立てか) 
+モデル名はSRPD65K　(末尾Kはマレーシア組み立てか) 
 
 
 ![front](../../assets/front.jpg)
